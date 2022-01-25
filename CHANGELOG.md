@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/googleapis/python-game-servers/compare/v1.3.0...v1.4.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#238](https://github.com/googleapis/python-game-servers/issues/238)) ([9e22e6d](https://github.com/googleapis/python-game-servers/commit/9e22e6dd4e2543d694e33eb1ec2c4f9a05d8b940))
+
 ## [1.3.0](https://www.github.com/googleapis/python-game-servers/compare/v1.2.1...v1.3.0) (2021-11-09)
 
 
